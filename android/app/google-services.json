@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618443822222",
+    "project_id": "fir-urraan-61bad",
+    "storage_bucket": "fir-urraan-61bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618443822222:android:d58cd64a4d6d8984af65df",
+        "android_client_info": {
+          "package_name": "com.firebase.urraan.firebase_urraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618443822222-0c35fiv01usffgcqi4asgou7f1rje7la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.urraan.firebase_urraan",
+            "certificate_hash": "c9392dc6fd2d5de363cd26d70e0ae5926553b855"
+          }
+        },
+        {
+          "client_id": "618443822222-7hlu6isngred56i1t562so0erqbuobce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dcAjqKajDvY-JhkyhC41tAzEljUyaG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618443822222-7hlu6isngred56i1t562so0erqbuobce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
