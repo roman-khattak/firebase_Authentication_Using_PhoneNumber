@@ -131,7 +131,7 @@ class _ScreenPhoneAuthenticationState extends State<ScreenPhoneAuthentication> {
                 TextButton(
                   onPressed: onTapVerify,
                   child: Text(
-                    // isCodeSent = false; by default and in the below line of code the first statement is for 'true' and 2nd one is for 'false'
+                    /// isCodeSent = false; by default and in the below line of code the first statement is for 'true' and 2nd one is for 'false'
                     //thus when isCodeSent = false so button text = "Verify Phone Number" and when isCodeSent = true so button text = "Verify Code"
                     isCodeSent ? "Verify Code" : "Verify Phone Number",      // until code is not sent the button name will be "verify Phone NUmber" and when code is sent then the button name will change to "verify code"
                     style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600,color: Colors.black87),),
